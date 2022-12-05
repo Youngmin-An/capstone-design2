@@ -3,7 +3,7 @@
 해당 리포지토리는 2022년 2학기 경희대학교 컴퓨터공학과 캡스톤디자인 2 수업
 ### 복합 시계열 데이터 분석 및 예측을 자동화하는 MLOps 시스템
 프로젝트의 메인 리포지토리입니다.<br><br>
-하위프로젝트는 다음과 같습니다.
+하위프로젝트는 다음과 같습니다.<br>
 <b>library</b>
 - [aicns-feature-metadata-synchronizer](https://github.com/Youngmin-An/aicns-feature-metadata-synchronizer)
 - [aicns-raw-data-loader](https://github.com/Youngmin-An/aicns-raw-data-loader.git)
